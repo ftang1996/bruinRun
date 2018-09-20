@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bruin Run</string>
+    <string name="slogan">Class planning on the go!</string>
+    <string name="search_label">Search bar</string>
+    <string name="search_hint">Search classes</string>
+    <string name="button_search">SEARCH</string>
+    <string name="action_search">Search</string>
+</resources>
